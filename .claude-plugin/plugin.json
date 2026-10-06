@@ -1,0 +1,20 @@
+{
+  "name": "model-showdown",
+  "version": "1.0.0",
+  "description": "/versus sends one question to Haiku, Sonnet and Opus at once and shows the answers side by side with time, tokens and cost.",
+  "author": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "homepage": "https://github.com/automatorsplus/model-showdown-mod",
+  "repository": "https://github.com/automatorsplus/model-showdown-mod",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "models",
+    "comparison",
+    "cost"
+  ],
+  "types": "./types/index.d.ts"
+}

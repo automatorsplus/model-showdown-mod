@@ -1,0 +1,16 @@
+{
+  "name": "model-showdown-mod",
+  "description": "Model Showdown, a Claude Code mod from the Automators+ community.",
+  "owner": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "plugins": [
+    {
+      "name": "model-showdown",
+      "source": "./",
+      "description": "/versus sends one question to Haiku, Sonnet and Opus at once and shows the answers side by side with time, tokens and cost.",
+      "version": "1.0.0"
+    }
+  ]
+}
